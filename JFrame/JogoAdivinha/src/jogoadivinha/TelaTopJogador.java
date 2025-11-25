@@ -11,6 +11,7 @@ public class TelaTopJogador extends javax.swing.JFrame {
         initComponents();
         setLocationRelativeTo(null);
         setTitle("Recorde");
+        setDefaultCloseOperation(javax.swing.WindowConstants.DISPOSE_ON_CLOSE);
     }
 
     @SuppressWarnings("unchecked")
